@@ -14,8 +14,8 @@ categories=(
 
 echo "# Programming Project List
 
-" > task.md
+" > README.md
 
 for category in ${categories[@]};do
-    cat ${category}/README.md >> task.md
+    cat ${category}/README.md >> README.md
 done

@@ -12,7 +12,7 @@ public class UserController {
 
     @GetMapping("/users")
     public ArrayList<User> getUserList() {
-        ArrayList<User> users = new ArrayList<User>();
+        ArrayList<User> users = new ArrayList<>();
         users.add(new User(1, "admin", "Administrator"));
         users.add(new User(2, "ismdeep", "Del Cooper"));
         return users;

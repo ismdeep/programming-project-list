@@ -18,6 +18,7 @@
 | HTML Generator         |      |      |        |
 | CD-Key生成器           |      |      |        |
 | 正则表达式查询工具     |      |      |        |
+| Password Generator     | ✅    |      |        |
 
 
 

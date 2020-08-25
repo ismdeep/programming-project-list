@@ -21,6 +21,7 @@
 | HTML Generator         |      |      |        |
 | CD-Key生成器           |      |      |        |
 | 正则表达式查询工具     |      |      |        |
+| Password Generator     | ✅    |      |        |
 
 
 
@@ -131,6 +132,7 @@
 | RPG角色属性生成器              |      |      |        |
 | 文件复制工具                   |      |      |        |
 | Same File                      | ✅    |      |        |
+| Same File Finder               |      |      |        |
 
 
 ### Database
